@@ -1,4 +1,5 @@
 Electronic Sales Data Analysis (Power BI)
+
 Project Overview
 This project analyzes the Electronic Sales Dataset using Microsoft Power BI to uncover trends, measure performance, and generate business insights.
 The analysis focuses on sales performance over time, comparing current performance with previous periods using Time Intelligence calculations.
